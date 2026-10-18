@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-0f0b897e79.bamid.cn/sitemap.xml
